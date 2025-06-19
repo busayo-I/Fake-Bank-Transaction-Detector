@@ -5,7 +5,7 @@ This project is a **Machine Learning-powered web application** designed to detec
 Built using Python and Streamlit, it provides users with a simple interface to upload transaction data and receive fraud predictions.
 
 ## 🚀 Live Demo
-[🔗 Click here to try the live demo](#) — *(Add your Render/Streamlit Cloud link here once deployed)*
+[🔗 Click here to try the live demo](https://fraud-transaction-detector.streamlit.app/) 
 
 ---
 
